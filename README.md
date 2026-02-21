@@ -795,9 +795,6 @@ aws eks update-cluster-version \              # Upgrade K8s version
 
 ---
 
-**Built for portfolio & resume by a Cloud Engineer passionate about Kubernetes**
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/certification/)
-[![CKA](https://img.shields.io/badge/Certified-Kubernetes_Administrator-326CE5?style=flat-square&logo=kubernetes)](https://www.cncf.io/certification/cka/)
 
 </div>
